@@ -1,0 +1,17 @@
+name: GeoPower
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - geopandas
+  - pandapower
+  - matplotlib
+  - plotly
+  - jupyterlab
+  - contextily
+  - pypsa
+  - python-igraph
+  - numba
+  - openpyxl
+  - pyomo
